@@ -1,3 +1,5 @@
+![.github/workflows/main.yml](https://github.com/mm0202/sandbox_github-action_docker-type/workflows/.github/workflows/main.yml/badge.svg)
+
 # sandbox_github-action_docker-type
  dockerタイプのgithubアクションのトライアル
 
